@@ -1,0 +1,62 @@
+body{
+    font-family: 'Rubik', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+.oranged{
+    color: orangered;
+}
+section{
+    display: flex;
+    margin-bottom: 110px;
+}
+.half-width{
+    width: 50%;
+    padding-left:10%;
+}
+.half-width img{
+    width:30%;
+} 
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}
+.dream-big{
+    width: 50%;
+    padding-right: 20%;
+}
+.dream-big img{
+    width: 60%;
+    padding-left: 30%;
+}
+.resume{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}
+.experience{
+    width: 50%;
+    padding-left: 10%;
+    color:rgb(247, 110, 61);
+}
+.developer{
+    width: 15%;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(3, 124, 23), rgb(11, 128, 27));
+    padding: 10px;
+    color: white;
+    font-weight: 400;
+    border-radius: 10px;
+    text-align: center;
